@@ -1,0 +1,26 @@
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Entities\bin\Debug\netcoreapp3.1\SiparisApp.Entities.deps.json
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Entities\bin\Debug\netcoreapp3.1\SiparisApp.Entities.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Entities\bin\Debug\netcoreapp3.1\SiparisApp.Entities.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Entities\bin\Debug\netcoreapp3.1\SiparisApp.Entities.deps.json
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Entities\bin\Debug\netcoreapp3.1\SiparisApp.Entities.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Entities\bin\Debug\netcoreapp3.1\SiparisApp.Entities.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.pdb
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Entities\bin\Debug\netcoreapp3.1\SiparisApp.Entities.deps.json
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Entities\bin\Debug\netcoreapp3.1\SiparisApp.Entities.dll
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Entities\bin\Debug\netcoreapp3.1\SiparisApp.Entities.pdb
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.dll
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Entities\obj\Debug\netcoreapp3.1\SiparisApp.Entities.pdb

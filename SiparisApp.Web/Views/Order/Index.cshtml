@@ -1,0 +1,93 @@
+﻿
+@model OrderModel
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Checkout</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-8">
+        <h4 class="mb-3">Order Details</h4>
+        <form action="/Order/Index" method="post">
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="@Model.FirstName"></label>
+                    <input asp-for="@Model.FirstName" value="" class="form-control" />
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="@Model.LastName"></label>
+                    <input asp-for="@Model.LastName" value="" class="form-control" />
+                </div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="@Model.Address"></label>
+                <textarea asp-for="@Model.Address" class="form-control"></textarea>
+            </div>
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <label asp-for="@Model.City"></label>
+                    <input asp-for="@Model.City" value="" class="form-control" />
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label asp-for="@Model.Phone"></label>
+                    <input asp-for="@Model.Phone" value="" class="form-control" />
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label asp-for="@Model.Email"></label>
+                    <input asp-for="@Model.Email" value="" class="form-control" />
+
+                </div>
+            </div>
+
+         
+            <hr class="mb-4" />
+
+
+
+
+            <button type="submit" class="btn btn-primary btn-lg btn-block">Complete Order</button>
+        </form>
+    </div>
+
+    <div class="col-md-4 mb-4">
+
+        <h4 class="mb-3">
+            <span class="text-muted">Your Cart</span>
+        </h4>
+        <label>Products</label>
+        <ul class="list-group mb-3">
+            @foreach (var item in Model.BasketModel.BasketDetails)
+            {
+                <li class="list-group-item d-flex justify-content-between">
+                    <div>
+                        <h6 class="my-0">
+                            @item.Name
+                            <small>x @item.Quantity</small>
+                        </h6>
+                    </div>
+                    <span class="text-muted">@item.Price TL</span>
+                </li>
+            }
+            <li class="list-group-item d-flex justify-content-between">
+                <span>Total (TL)</span>
+                <strong>@Model.BasketModel.TotalPrice() TL</strong>
+            </li>
+        </ul>
+
+    </div>
+
+</div>
+
+<script>
+    $(document).ready(function () {
+
+        $('#save-info').click(function () {
+            
+
+        });
+
+    });
+
+</script>
+

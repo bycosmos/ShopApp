@@ -1,0 +1,60 @@
+﻿@model List<OrderListModel>
+@{
+    ViewData["Title"] = "MyOrderList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>MyOrderList</h1>
+<hr />
+@foreach (var order in Model)
+{
+<table class="table table-bordered table-sm mb-3">
+    <thead class="bg-primary">
+        <tr>
+            <td colspan="2">Order Id: #@order.OrderId</td>
+            <th>Price</th>
+            <th>Quantity</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var orderDetail in order.OrderDetails)
+        {
+            <tr>
+                <td style="width:60px;">
+                    <img src="@orderDetail.ImageUrl" width="50" />
+                </td>
+                <td>
+                    @orderDetail.Name
+                </td>
+                <td>
+                    @orderDetail.Price
+                </td>
+                <td>
+                    @orderDetail.Quantity
+                </td>
+            </tr>
+
+        }
+
+
+
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="2">
+                Customer Name:
+            </td>
+            <td>
+                @order.FirstName @order.LastName
+            </td>
+            <td><strong>Total: @order.TotalPrice()</strong></td>
+        </tr>
+      
+    </tfoot>
+
+
+</table>
+
+}
+

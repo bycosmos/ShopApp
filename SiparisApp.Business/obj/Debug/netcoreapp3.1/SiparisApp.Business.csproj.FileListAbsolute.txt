@@ -1,0 +1,42 @@
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Business.deps.json
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Business.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Business.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Dal.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Entities.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Dal.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Entities.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.csproj.CopyComplete
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Business.deps.json
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Business.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Business.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Dal.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Entities.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Dal.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Entities.pdb
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.csproj.CopyComplete
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.dll
+C:\Users\Lenovo\Source\Repos\Yeni klasör\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.pdb
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Business.deps.json
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Business.dll
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Business.pdb
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Dal.dll
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Entities.dll
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Dal.pdb
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\bin\Debug\netcoreapp3.1\SiparisApp.Entities.pdb
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.dll
+C:\Users\Lenovo\Desktop\KaraCadir-master\SiparisApp\SiparisApp.Business\obj\Debug\netcoreapp3.1\SiparisApp.Business.pdb

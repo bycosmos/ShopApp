@@ -1,0 +1,13 @@
+﻿@model Basket
+@{
+    ViewData["Title"] = "Manage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+    <form action="/Account/Manage" method="post">
+        <div class="mb-3">
+            <label asp-for="@Model.CustomerAddress"></label>
+            <textarea asp-for="@Model.CustomerAddress" class="form-control"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg btn-block">Save</button>
+
+    </form>

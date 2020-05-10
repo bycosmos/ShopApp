@@ -1,0 +1,14 @@
+﻿@model IEnumerable<SiparisApp.Entities.Product>
+@{
+    ViewData["Title"] = "ProductList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <partial name="_product" for="@product" />
+    }
+</div>
+
